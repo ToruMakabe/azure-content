@@ -61,7 +61,7 @@ To help decide which platform is right for your needs, we’ve created a referen
 			<td></td>
 			<td>Container management</td>
 			<td>EC2 Container Service EC2 Container Registry (Preview)</td>
-			<td><a href="https://azure.microsoft.com/documentation/videos/azurecon-2015-windows-server-containers-docker-and-an-introduction-to-azure-container-service/">Container Service (Preview)</a></td>
+			<td><a href="https://azure.microsoft.com/en-us/documentation/services/container-service/">Container Service</a></td>
 			<td>A container management service that supports Docker containers and allows users to run applications on managed instance clusters. It eliminates the need to operate cluster management software or design fault-tolerant cluster architectures.</td>
 		</tr>
 		<tr>
@@ -82,7 +82,7 @@ To help decide which platform is right for your needs, we’ve created a referen
 			<td></td>
 			<td>Microservice-based applications</td>
 			<td></td>
-			<td><a href="https://azure.microsoft.com/services/service-fabric/">Service Fabric (Preview)</a></br></td>
+			<td><a href="https://azure.microsoft.com/services/service-fabric/">Service Fabric</a></br></td>
 			<td>A compute service that orchestrates and manages the execution, lifetime, and resilience of complex, inter-related code components that can be either stateless or stateful.</td>
 		</tr>
 		<tr>
@@ -173,7 +173,7 @@ To help decide which platform is right for your needs, we’ve created a referen
 			<td></td>
 			<td>Domain name system (DNS)</td>
 			<td>Route 53</td>
-			<td><a href="https://azure.microsoft.com/services/dns/">DNS (Preview)</a></br><a href="https://azure.microsoft.com/services/traffic-manager/">Traffic Manager</a></td>
+			<td><a href="https://azure.microsoft.com/services/dns/">DNS</a></br><a href="https://azure.microsoft.com/services/traffic-manager/">Traffic Manager</a></td>
 			<td>A service that hosts domain names, plus routes users to Internet applications, connects user requests to datacenters, manages traffic to apps, and improves app availability with automatic failover.</td>
 		</tr>
 		<tr>
@@ -208,7 +208,7 @@ To help decide which platform is right for your needs, we’ve created a referen
 			<td></td>
 			<td>Data warehouse</td>
 			<td>Redshift</td>
-			<td><a href="https://azure.microsoft.com/services/sql-data-warehouse/">SQL Data Warehouse (Preview)</a></br></td>
+			<td><a href="https://azure.microsoft.com/services/sql-data-warehouse/">SQL Data Warehouse</a></br></td>
 			<td>A fully managed data warehouse that analyzes data using business intelligence tools. It can transact SQL queries across relational and non-relational data.</td>
 		</tr>
 		<tr>
@@ -285,7 +285,7 @@ To help decide which platform is right for your needs, we’ve created a referen
 			<td></td>
 			<td>Data discovery</td>
 			<td></td>
-			<td><a href="https://azure.microsoft.com/services/data-catalog/">Data Catalog (Preview)</a></br></td>
+			<td><a href="https://azure.microsoft.com/services/data-catalog/">Data Catalog</a></br></td>
 			<td>Provides the ability to better register, enrich, discover, understand, and consume data sources.</td>
 		</tr>
 		<tr>
@@ -397,7 +397,7 @@ To help decide which platform is right for your needs, we’ve created a referen
 			<td></td>
 			<td>Security</td>
 			<td>Inspector (Preview)</td>
-			<td><a href="https://azure.microsoft.com/services/security-center/">Security Center (Preview)</a></br></td>
+			<td><a href="https://azure.microsoft.com/services/security-center/">Security Center</a></br></td>
 			<td>An automated security assessment service that improves the security and compliance of applications. Automatically assess applications for vulnerabilities or deviations from best practices.</td>
 		</tr>
 		<tr>
